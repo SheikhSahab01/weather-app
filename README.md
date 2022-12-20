@@ -39,6 +39,9 @@
 <a href="https://twitter.com/">
   <img align="left" alt="" width="150px" src="https://img.shields.io/badge/sheikhsahab-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
+<br>
+<hr>
+<br>
 
 # Getting Started with Create React App
 
